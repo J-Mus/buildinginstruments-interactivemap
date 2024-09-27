@@ -1,1 +1,1 @@
-# buildinginstruments-interactivemap.github.io
+# j-mus.github.io/buildinginstruments-interactivemap/
